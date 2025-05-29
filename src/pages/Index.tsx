@@ -34,7 +34,7 @@ const Index = () => {
           rel="noopener noreferrer"
           className="text-2xl font-medium text-gray-800 hover:text-gray-600 transition-all duration-300 hover:underline decoration-2 underline-offset-4 hover:scale-105 inline-block px-4 py-2"
         >
-          актуальный домен bublik87
+          Bublik актуальный домен казино
         </a>
         <p className="text-sm text-gray-500 mt-2">( ссылка кликабельна )</p>
 
