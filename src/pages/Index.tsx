@@ -13,6 +13,7 @@ const Index = () => {
         >
           актуальный домен bublik87
         </a>
+        <p className="text-sm text-gray-500 mt-2">( ссылка кликабельна )</p>
       </div>
     </div>
   );
