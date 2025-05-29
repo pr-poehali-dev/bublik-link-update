@@ -1,6 +1,9 @@
 const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-cream-100">
+    <div className="min-h-screen flex items-center justify-center bg-cream-100 relative">
+      <div className="absolute top-4 left-4 text-sm text-gray-600">
+        окно для входа bublik87
+      </div>
       <div className="text-center">
         <a
           href="https://1bublik.space/?redir=140327"
